@@ -1,0 +1,9 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "weekly-status": {
+      "script-ref": "WeeklyStatus.java",
+      "description": "Weekly GitHub status email generator using Claude Code"
+    }
+  }
+}
